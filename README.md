@@ -1,3 +1,3 @@
 # machine-learning
 
-Chapter 6 - 9) merging joining and concat
+Chapter 7. Python for Data Analysis - Pandas Exercises
